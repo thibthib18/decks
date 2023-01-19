@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Flying tribal</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Warden of Evos Isle"/>
+        <card number="2" name="Aven Mimeomancer"/>
+        <card number="4" name="Empyrean Eagle"/>
+        <card number="4" name="Favorable Winds"/>
+        <card number="4" name="Judge's Familiar"/>
+        <card number="1" name="Jubilant Skybonder"/>
+        <card number="4" name="Pride of the Clouds"/>
+        <card number="4" name="Spell Queller"/>
+        <card number="4" name="Winged Words"/>
+        <card number="2" name="Aerial Assault"/>
+        <card number="2" name="Rally of Wings"/>
+        <card number="4" name="Augury Owl"/>
+        <card number="2" name="Moorland Haunt"/>
+        <card number="4" name="Celestial Colonnade"/>
+        <card number="4" name="Hallowed Fountain"/>
+        <card number="4" name="Flooded Strand"/>
+        <card number="4" name="Snow-Covered Island"/>
+        <card number="4" name="Snow-Covered Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Archon of Emeria"/>
+        <card number="3" name="Stony Silence"/>
+        <card number="3" name="Remorseful Cleric"/>
+        <card number="4" name="Leyline of Sanctity"/>
+        <card number="2" name="Field of Ruin"/>
+    </zone>
+</cockatrice_deck>

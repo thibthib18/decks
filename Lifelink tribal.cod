@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lifelink tribal</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Legion's Landing"/>
+        <card number="3" name="Dawn of Hope"/>
+        <card number="3" name="Heliod, Sun-Crowned"/>
+        <card number="4" name="Serra Ascendant"/>
+        <card number="2" name="Speaker of the Heavens"/>
+        <card number="2" name="Archangel of Thune"/>
+        <card number="3" name="Aerial Responder"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="2" name="Honor of the Pure"/>
+        <card number="2" name="Path of Bravery"/>
+        <card number="4" name="Sacred Cat"/>
+        <card number="4" name="Knight of Meadowgrain"/>
+        <card number="2" name="Radiant Fountain"/>
+        <card number="2" name="Sejiri Steppe"/>
+        <card number="4" name="Windswept Heath"/>
+        <card number="4" name="Temple Garden"/>
+        <card number="9" name="Snow-Covered Plains"/>
+        <card number="3" name="Field of Ruin"/>
+    </zone>
+</cockatrice_deck>

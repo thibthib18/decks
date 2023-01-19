@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Stomp, stomp</deckname>
+    <comments>Shamelessly copied from here: https://draftsim.com/best-mtg-starter-decks/</comments>
+    <zone name="main">
+        <card number="3" name="Almighty Brushwagg"/>
+        <card number="2" name="Rimrock Knight // Boulder Rush"/>
+        <card number="3" name="Ilysian Caryatid"/>
+        <card number="2" name="Nessian Hornbeetle"/>
+        <card number="1" name="Radha, Heart of Keld"/>
+        <card number="1" name="Bonecrusher Giant // Stomp"/>
+        <card number="2" name="Dreamstalker Manticore"/>
+        <card number="2" name="Hornbash Mentor"/>
+        <card number="3" name="Warden of the Chained"/>
+        <card number="3" name="Leafkin Avenger"/>
+        <card number="3" name="Rampart Smasher"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="2" name="Scorching Dragonfire"/>
+        <card number="3" name="Unleash Fury"/>
+        <card number="2" name="Ram Through"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Volcanic Salvo"/>
+        <card number="1" name="The First Iroan Games"/>
+        <card number="9" name="Mountain"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="4" name="Rugged Highlands"/>
+    </zone>
+</cockatrice_deck>

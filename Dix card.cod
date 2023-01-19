@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dix card</deckname>
+    <comments>hehe</comments>
+    <zone name="main">
+        <card number="2" name="Dismember"/>
+        <card number="2" name="Funeral Charm"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="2" name="Damnation"/>
+        <card number="2" name="Inquisition of Kozilek"/>
+        <card number="3" name="Raven's Crime"/>
+        <card number="3" name="Sign in Blood"/>
+        <card number="2" name="Smallpox"/>
+        <card number="3" name="Thoughtseize"/>
+        <card number="3" name="Wrench Mind"/>
+        <card number="3" name="Liliana's Caress"/>
+        <card number="4" name="Shrieking Affliction"/>
+        <card number="2" name="The Rack"/>
+        <card number="2" name="Liliana of the Veil"/>
+        <card number="2" name="Hypnotic Specter"/>
+        <card number="2" name="Nyxathid"/>
+        <card number="2" name="Oona's Prowler"/>
+        <card number="20" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

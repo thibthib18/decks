@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono green learning deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Caustic Caterpillar"/>
+        <card number="3" name="Colossal Dreadmaw"/>
+        <card number="13" name="Forest"/>
+        <card number="3" name="Mammoth Spider"/>
+        <card number="3" name="Ram Through"/>
+        <card number="3" name="Sauroform Hybrid"/>
+        <card number="3" name="Skyshroud Troopers"/>
+        <card number="3" name="Tranquil Thicket"/>
+        <card number="3" name="Wirewood Elf"/>
+        <card number="3" name="Predator's Strike"/>
+    </zone>
+</cockatrice_deck>

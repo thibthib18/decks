@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Orzhov Tokens v2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Bitterblossom"/>
+        <card number="4" name="Intangible Virtue"/>
+        <card number="2" name="Hidden Stockpile"/>
+        <card number="4" name="Lingering Souls"/>
+        <card number="4" name="Spectral Procession"/>
+        <card number="4" name="Inquisition of Kozilek"/>
+        <card number="2" name="Fatal Push"/>
+        <card number="2" name="Path to Exile"/>
+        <card number="4" name="Raise the Alarm"/>
+        <card number="3" name="Sorin, Solemn Visitor"/>
+        <card number="2" name="Legion's Landing"/>
+        <card number="2" name="Gideon, Ally of Zendikar"/>
+        <card number="2" name="Gather the Townsfolk"/>
+        <card number="4" name="Concealed Courtyard"/>
+        <card number="2" name="Castle Ardenvale"/>
+        <card number="2" name="Silent Clearing"/>
+        <card number="4" name="Godless Shrine"/>
+        <card number="4" name="Marsh Flats"/>
+        <card number="2" name="Shambling Vent"/>
+        <card number="3" name="Plains"/>
+        <card number="2" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

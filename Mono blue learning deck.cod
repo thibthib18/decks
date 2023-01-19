@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono blue learning deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Cancel"/>
+        <card number="3" name="Cartouche of Knowledge"/>
+        <card number="3" name="Containment Membrane"/>
+        <card number="3" name="Into the Roil"/>
+        <card number="13" name="Island"/>
+        <card number="3" name="Jeskai Windscout"/>
+        <card number="3" name="Jhessian Thief"/>
+        <card number="3" name="Lonely Sandbar"/>
+        <card number="3" name="Man-o'-War"/>
+        <card number="3" name="Wall of Mist"/>
+    </zone>
+</cockatrice_deck>

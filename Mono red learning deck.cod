@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono red learning deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Fanatical Firebrand"/>
+        <card number="3" name="Forgotten Cave"/>
+        <card number="3" name="Foundry Street Denizen"/>
+        <card number="3" name="Goblin Instigator"/>
+        <card number="3" name="Hissing Iguanar"/>
+        <card number="3" name="Krenko's Command"/>
+        <card number="3" name="Lightning Bolt"/>
+        <card number="13" name="Mountain"/>
+        <card number="3" name="Reckless Abandon"/>
+        <card number="3" name="Sure Strike"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Pigs</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Adaptive Automaton"/>
+        <card number="4" name="Boartusk Liege"/>
+        <card number="4" name="Brindle Shoat"/>
+        <card number="4" name="Festerhide Boar"/>
+        <card number="4" name="Flinthoof Boar"/>
+        <card number="4" name="Gristleback"/>
+        <card number="2" name="Pygmy Razorback"/>
+        <card number="14" name="Forest"/>
+        <card number="10" name="Mountain"/>
+        <card number="2" name="Trufflesnout"/>
+        <card number="2" name="Titanic Growth"/>
+        <card number="1" name="Nessian Boar"/>
+        <card number="1" name="Ilharg, the Raze-Boar"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Trufflesnout"/>
+        <card number="2" name="Titanic Growth"/>
+        <card number="2" name="Nessian Boar"/>
+        <card number="2" name="Pygmy Razorback"/>
+        <card number="4" name="Zhur-Taa Swine"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mono White Learning deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Angelic Gift"/>
+        <card number="3" name="Benalish Trapper"/>
+        <card number="3" name="Brilliant Halo"/>
+        <card number="3" name="Healer's Hawk"/>
+        <card number="3" name="Knight's Pledge"/>
+        <card number="3" name="Moment of Triumph"/>
+        <card number="13" name="Plains"/>
+        <card number="3" name="Secluded Steppe"/>
+        <card number="3" name="Sun Sentinel"/>
+        <card number="3" name="Tethmos High Priest"/>
+    </zone>
+</cockatrice_deck>
